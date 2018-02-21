@@ -27,7 +27,7 @@ import java.util.Scanner;
 public class PRG420Week1_ASM2 {
     
     public static void main(String[] args) {
-        // Create a usable instance of an input device    
+        /*// Create a usable instance of an input device    
         LINE 1. INSTANTIATE AN INSTANCE OF SCANNER AND ASSIGN IT TO A VARIABLE OF TYPE SCANNER. 
 
         // Prompt user for input
@@ -38,6 +38,7 @@ public class PRG420Week1_ASM2 {
 
         // Construct the greeting 
         LINE 4. USE THE PRINTLN() METHOD TO CONSTRUCT A CORRECTLY PUNCTUATED GREETING.
+        */
 
     }
     
